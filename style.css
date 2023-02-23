@@ -1,0 +1,38 @@
+.text-right{
+    text-align: right;
+    font-weight: bold;
+}
+.google-headline{
+    text-align: center;
+    font-size: 30px;
+}
+.g{
+    color: dodgerblue;
+}
+.o{
+    color: tomato;
+}
+.o2{
+    color: burlywood ;
+}
+.L{
+    color: green;
+}
+.form-aline{
+    text-align: center;
+}
+.text-background{
+   
+    color: black;
+    text-align: right;
+}
+#background-color{
+    color: aqua;
+}
+.box-gray{
+      float: right;
+      background-color: grey;
+      color: white;
+      font-size: 16px;
+}
+
