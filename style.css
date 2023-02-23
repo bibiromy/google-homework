@@ -4,7 +4,7 @@
 }
 .google-headline{
     text-align: center;
-    font-size: 30px;
+    font-weight: 100;
 }
 .g{
     color: dodgerblue;
@@ -29,10 +29,17 @@
 #background-color{
     color: aqua;
 }
-.box-gray{
+/* .box-gray{
       float: right;
       background-color: grey;
       color: white;
       font-size: 16px;
+} */
+.text-gray{
+    text-align: right;
+    color: white;
+}
+.background-gray{
+    background-color: gray;
 }
 
